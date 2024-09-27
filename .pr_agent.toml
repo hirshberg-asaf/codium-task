@@ -1,4 +1,8 @@
-[config] enable_custom_labels=true
+
+[config]
+config.output_relevant_configurations=true
+
+enable_custom_labels=true
 
 [custom_labels."SQL modifications"] 
 description = "Adds or modifies SQL queries"
