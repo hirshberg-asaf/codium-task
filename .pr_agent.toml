@@ -1,8 +1,8 @@
-enable_custom_labels = true
+[config]
+enable_custom_labels=false
 
-[custom_labels.label1]
-description = "Test label 1"
-
-[custom_labels.label2]
-description = "Test label 2"
-
+## template for custom labels
+[custom_labels."Bug fix"]
+description = """Fixes a bug in the code"""
+[custom_labels."Tests"]
+description = """Adds or modifies tests"""
