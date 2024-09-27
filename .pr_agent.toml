@@ -1,8 +1,0 @@
-[config]
-enable_custom_labels=false
-
-## template for custom labels
-[custom_labels."Bug fix"]
-description = """Fixes a bug in the code"""
-[custom_labels."Tests"]
-description = """Adds or modifies tests"""
