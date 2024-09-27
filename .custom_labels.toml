@@ -1,8 +1,7 @@
-[config]
-enable_custom_labels=true
+[config] enable_custom_labels=true
 
-[custom_labels."SQL modifications"]
+[custom_labels."SQL modifications"] 
 description = "Adds or modifies SQL queries"
 
-[custom_labels."Secret key"]
+[custom_labels."Secret key"] 
 description = "Adds a secret key"
