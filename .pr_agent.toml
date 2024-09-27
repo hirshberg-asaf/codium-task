@@ -1,0 +1,8 @@
+enable_custom_labels = true
+
+[custom_labels.label1]
+description = "Test label 1"
+
+[custom_labels.label2]
+description = "Test label 2"
+
